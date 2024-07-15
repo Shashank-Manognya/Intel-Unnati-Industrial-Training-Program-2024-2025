@@ -5,7 +5,7 @@ This project is a secure file encryption and decryption application that uses AE
 
 Features:
   
-    Encrypt files: Encrypts a user-chosen file or directory using a random File Encryption Key (FEK).
+    Encrypt files: Encrypts a user-choosen file or directory using a random File Encryption Key (FEK).
   
     Store encryption key securely: The FEK is stored in an encrypted form, protected by a user-defined passphrase.
   
@@ -13,7 +13,7 @@ Features:
   
     Decrypt files: Decrypts the encrypted file if the correct passphrase is provided.
   
-    Brute-force protection: Includes a brute-force recovery mechanism for educational purposes.
+    Brute-force protection: Includes a brute-force recovery mechanism to recover forgotten passphrase.
 
 Prerequisites:
     
