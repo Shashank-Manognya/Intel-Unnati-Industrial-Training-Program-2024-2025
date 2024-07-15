@@ -101,5 +101,8 @@ Steps for Brute-Force Recovery
     
     Note: No need to type in the Passphrase after Brute-force Recover. 
           The input file is automatically Decrypted.
+
+Video is uploaded for doubts. 
+
 Contact: 
     smanogna@gitam.in for queries.
