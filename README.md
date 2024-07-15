@@ -25,7 +25,7 @@ Installation
   
   Clone the repository:
     
-    git clone https://github.com/manognya66/Intel-Unnati-Industrial-Training-Program-2024-2025.git
+    git clone https://github.com/Shashank-Manognya/Intel-Unnati-Industrial-Training-Program-2024-2025.git
     
     cd Intel-Unnati-Industrial-Training-Program-2024-2025
   
@@ -102,7 +102,7 @@ Steps for Brute-Force Recovery
     Note: No need to type in the Passphrase after Brute-force Recover. 
           The input file is automatically Decrypted.
 
-Video is uploaded for doubts. 
+Watch the video tutorial for your understanding.  
 
 Contact: 
     smanogna@gitam.in for queries.
